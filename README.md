@@ -1,1 +1,2 @@
 # architecture-decisions
+Проект по ведению ADR с использованием инструмента ADR-TOOLS (https://github.com/npryce/adr-tools/tree/master) и шаблона от Michael Nygard (https://github.com/architecture-decision-record/architecture-decision-record/tree/main/locales/en/templates/decision-record-template-by-michael-nygard)
